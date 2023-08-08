@@ -25,3 +25,12 @@ local OhSection = Oh:NewSection("Oh")
 OhSection:NewButton("океан хаб","около 500 скриптов", function()
    loadstring(game:HttpGet("https://raw.githubusercontent.com/Bshsvsvhsgs/Rarrarar/main/Ffffffff"))()
 end)
+
+
+local C00lgui = Window:NewTab("C00lgui")
+
+local C00lguiSection = C00lgui:NewSection("C00lgui")
+
+C00lguiSection:NewButton("C00lgui","мощный скрипт (некоторые скрипты визуал", function()
+    loadstring(game:GetObjects("rbxassetid://8127297852")[1].Source)()
+end)
