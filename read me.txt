@@ -1,0 +1,27 @@
+local Library = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
+
+local Window = Library.CreateLib("Dead hub", "LightTheme")
+
+local Op = Window:NewTab("Fe")
+
+local OpSection = Op:NewSection("Fe")
+
+
+
+OpSection:NewButton("Ghost hub  ", "Ghost hub (pdstebin)", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/main/GhostHub'))()
+end)
+local OpSection = Op:NewSection("trolling")
+local Op = Window:NewTab("trolling")
+local Op = Window:NewTab("hack")
+local OpSection = Op:NewSection("hack")
+local OpSection = Op:NewSection("coolkidmenu")
+local Op = Window:NewTab("coolkidmenu")
+
+local Oh = Window:NewTab("Oh")
+
+local OhSection = Oh:NewSection("Oh")
+
+OhSection:NewButton("океан хаб","около 500 скриптов", function()
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/Bshsvsvhsgs/Rarrarar/main/Ffffffff"))()
+end)
